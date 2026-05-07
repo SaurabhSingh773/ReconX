@@ -9,7 +9,7 @@ Advanced recon toolkit for subdomains, JS endpoints, historical URLs, and HTTP c
 - HTTP Security Analysis
 
 ## Install
-``bash
+```bash
 git clone https://github.com/SaurabhSingh773/ReconX.git
 cd ReconX
 pip install -r requirements.txt
