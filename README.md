@@ -13,7 +13,7 @@ Advanced recon toolkit for subdomains, JS endpoints, historical URLs, and HTTP c
 
 ## Example
 - python3 recon.py
-  choose option 3 → enter target
+- choose option 3 → enter target
 
 ## Install
 ```bash
